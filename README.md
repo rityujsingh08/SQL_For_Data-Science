@@ -7,11 +7,9 @@ SQL for Data Science
 
 🛠️ Key Concepts Practiced
 🗂️ Database Operations
-Creating databases and connecting using SQLite
-
-Loading and reading real-world CSV files into SQL tables
-
-Using %sql and %%sql magic commands with ipython-sql
+1. Creating databases and connecting using SQLite
+2. Loading and reading real-world CSV files into SQL tables
+3. Using %sql and %%sql magic commands with ipython-sql
 
 🔍 Querying Data
 SELECT, DISTINCT, WHERE, LIMIT
